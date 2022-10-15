@@ -1,16 +1,35 @@
-### Hi there 👋
+### Olá! Eu sou Alexandre Kovaleski Fochi
 
-<!--
-**AlexandreKovaleski/AlexandreKovaleski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estou cursando o segundo semestre de ciências da computação na Atitus Educação;
+- 🔭 Atualmente trabalhando como eletricista automotivo;
+  
+##
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/AlexandreKovaleski">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreKovaleski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreKovaleski&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+- 📕Estudando atualmente:
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="right" alt= "Alek"height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/964699939257073674/1030927904802082941/CodingKiraGIF.gif">
+ </div>
+
+##
+- 📲Contatos:
+<div> 
+  <a href = "mailto:akovaleski@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/alexandrefochi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://www.instagram.com/alexandrekovaleski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "http://wa.me/5554996595252" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+## 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
