@@ -1,6 +1,6 @@
 ### Olá! Eu sou Alexandre Kovaleski Fochi
 
-- 🌱 Estou cursando o segundo semestre de ciências da computação na Atitus Educação;
+- 🌱 Estou cursando o terceiro semestre de ciências da computação na Atitus Educação;
 - 🔭 Atualmente trabalhando como eletricista automotivo;
   
 ##
