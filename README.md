@@ -1,7 +1,7 @@
 ### Olá! Eu sou Alexandre Kovaleski Fochi
 
-- 🌱 Estou cursando o terceiro semestre de ciências da computação na Atitus Educação;
-- 🔭 Atualmente trabalhando como Suporte na Tek Soluções;
+- 🌱 Estou cursando o sétimo semestre de ciências da computação na Atitus Educação;
+- 🔭 Atualmente trabalhando na Razor Technologies;
   
 ##
 
@@ -15,7 +15,7 @@
 
 - 📕Estudando atualmente:
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="right" alt= "Alek"height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/964699939257073674/1030927904802082941/CodingKiraGIF.gif">
