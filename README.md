@@ -1,6 +1,6 @@
 ### Olá! Eu sou Alexandre Kovaleski Fochi
 
-- 🌱 Estou cursando o sétimo semestre de ciências da computação na Atitus Educação;
+- 🌱 Estou cursando o oitavo semestre de ciências da computação na Atitus Educação;
 - 🔭 Atualmente trabalhando na Razor Technologies;
   
 ##
