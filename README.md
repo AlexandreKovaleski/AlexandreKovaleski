@@ -19,7 +19,7 @@
 
 - A combinação da minha formação acadêmica com projetos pessoais e experiências profissionais anteriores tem me proporcionado um sólido entendimento das melhores práticas em tecnologia. Em meus empregos anteriores, desenvolvi competências em atendimento ao cliente, lógica de programação e SQL, fortalecendo minha capacidade de resolver problemas de forma eficaz.
 
-Estou sempre em busca de novas oportunidades de aprendizado e crescimento, tanto no ambiente acadêmico quanto no profissional, e comprometido em expandir meu conhecimento e habilidades na área de tecnologia.
+- Estou sempre em busca de novas oportunidades de aprendizado e crescimento, tanto no ambiente acadêmico quanto no profissional, e comprometido em expandir meu conhecimento e habilidades na área de tecnologia.
 
 ##
 - 📲Contatos:
