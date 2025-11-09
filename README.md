@@ -14,11 +14,13 @@
 ##
 
 - 📕Estudando atualmente:
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.brandfetch.io/idSUrLOWbH/idOSUN2QlG.svg?c=1dxbfHSJFAPEGdCLU4o5B">
-  <img align="right" alt= "Alek"height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/964699939257073674/1030927904802082941/CodingKiraGIF.gif">
- </div>
+Atualmente no oitavo semestre de Ciências da Computação na Atitus Educação, tenho uma forte paixão por Big Data, Ciência de Dados, Machine Learning e Inteligência Artificial. Desenvolvendo meu projeto de conclusão de curso, estou aplicando e aprofundando meus conhecimentos em Machine Learning, onde estou desenvolvendo um modelo para Predição de Produtividade Agrícola. Essa experiência tem me proporcionado habilidades práticas em pré-processamento de dados, treinamento e avaliação de modelos, visualização de resultados, fortalecendo minha capacidade de traduzir desafios em soluções baseadas em dados.
+
+Atuo como técnico em manutenção de equipamentos de informática na Razor Computadores, onde sou responsável pela montagem e testes de performance, estabilidade e escalabilidade de workstations. Essa experiência prática tem sido fundamental para aprimorar minhas habilidades técnicas e minha compreensão dos desafios do setor.
+
+A combinação da minha formação acadêmica com projetos pessoais e experiências profissionais anteriores tem me proporcionado um sólido entendimento das melhores práticas em tecnologia. Em meus empregos anteriores, desenvolvi competências em atendimento ao cliente, lógica de programação e SQL, fortalecendo minha capacidade de resolver problemas de forma eficaz.
+
+Estou sempre em busca de novas oportunidades de aprendizado e crescimento, tanto no ambiente acadêmico quanto no profissional, e comprometido em expandir meu conhecimento e habilidades na área de tecnologia.
 
 ##
 - 📲Contatos:
