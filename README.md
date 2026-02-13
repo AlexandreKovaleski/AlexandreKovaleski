@@ -1,7 +1,6 @@
 ### Olá! Eu sou Alexandre Kovaleski Fochi
 
-- 🌱 Estou cursando o oitavo semestre de ciências da computação na Atitus Educação;
-- 🔭 Atualmente trabalhando na Razor Technologies;
+- 🔭 Atualmente buscando vagas na área de Análise de Dados;
   
 ##
 
@@ -13,9 +12,7 @@
 
 ##
 
-- Atualmente no oitavo semestre de Ciências da Computação na Atitus Educação, tenho uma forte paixão por Big Data, Ciência de Dados, Machine Learning e Inteligência Artificial. Desenvolvendo meu projeto de conclusão de curso, estou aplicando e aprofundando meus conhecimentos em Machine Learning, onde estou desenvolvendo um modelo para Predição de Produtividade Agrícola. Essa experiência tem me proporcionado habilidades práticas em pré-processamento de dados, treinamento e avaliação de modelos, visualização de resultados, fortalecendo minha capacidade de traduzir desafios em soluções baseadas em dados.
-
-- Atuo como técnico em manutenção de equipamentos de informática na Razor Computadores, onde sou responsável pela montagem e testes de performance, estabilidade e escalabilidade de workstations. Essa experiência prática tem sido fundamental para aprimorar minhas habilidades técnicas e minha compreensão dos desafios do setor.
+- Graduado em Ciências da Computação na Atitus Educação e pós-graduando em Ciência de Dados, tenho uma forte paixão por Big Data, Ciência de Dados, Machine Learning e Inteligência Artificial. Desenvolvendo meu projeto de conclusão de curso, apliquei e aprofundei meus conhecimentos em Machine Learning, onde desenvolvolvi um modelo para Predição de Produtividade Agrícola. Essa experiência me proporcionou habilidades práticas em pré-processamento de dados, treinamento e avaliação de modelos, visualização de resultados, fortalecendo minha capacidade de traduzir desafios em soluções baseadas em dados.
 
 - A combinação da minha formação acadêmica com projetos pessoais e experiências profissionais anteriores tem me proporcionado um sólido entendimento das melhores práticas em tecnologia. Em meus empregos anteriores, desenvolvi competências em atendimento ao cliente, lógica de programação e SQL, fortalecendo minha capacidade de resolver problemas de forma eficaz.
 
